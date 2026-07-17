@@ -66,4 +66,4 @@ Baseline models such as TF-IDF and Word2Vec were explored for understanding trad
 ![Search UI](https://github.com/sakshi-yeole/RAG_based_Movie_Recommender_with_Interactive_Chatbot/blob/c7eff5968871c331112df191e012b438f4331f54/Assets/image3.png))
 
 ### 
-![Recommendation Grid](assets/images/image1.png)
+![Recommendation Grid](https://github.com/sakshi-yeole/RAG_based_Movie_Recommender_with_Interactive_Chatbot/blob/9a9347028310672f3ce3e23ce391c25acff9ac96/Assets/image1.png)/images/image1.png)
