@@ -17,7 +17,7 @@ CineFusion is an explainable movie recommendation system built using a Retrieval
 
 ##  System Architecture
 
-![Architecture Diagram](assets/images/archietecture.png)
+![Architecture Diagram](https://github.com/sakshi-yeole/RAG_based_Movie_Recommender_with_Interactive_Chatbot/blob/44f92f75fbb1b61af3bca48487f19eab77fc00ac/Assets/archietecture.png)
 
 ---
 
