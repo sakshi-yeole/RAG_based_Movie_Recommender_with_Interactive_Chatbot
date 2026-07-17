@@ -1,0 +1,11 @@
+venv/
+.env
+__pycache__/
+.git
+api_key
+.ipynb_checkpoints/
+artifacts/chroma_movies/
+.npy
+artifacts/
+data/
+Untitled.ipynb
